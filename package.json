@@ -1,5 +1,5 @@
 {
-  "name": "babel-plugin-syntax-pipeline-operator",
+  "name": "babel-plugin-transform-pipeline-operator",
   "version": "1.0.0",
   "main": "lib/index.js",
   "license": "MIT",
